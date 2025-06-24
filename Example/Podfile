@@ -1,0 +1,18 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'TDSensitive_Example' do
+  pod 'TDSensitive', :path => '../'
+  pod 'ThinkingSDK', :path => '../../ios-sdk/'
+  pod 'ThinkingDataCore', :path => '../../thinkingdatacore-ios-sdk/'
+#  pod 'ThinkingSDK', '3.1.0'
+
+  pod 'Masonry'
+
+  target 'TDSensitive_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
