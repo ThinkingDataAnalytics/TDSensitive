@@ -247,9 +247,6 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = huangdiao;
 				TargetAttributes = {
-					6003F589195388D20070C39A = {
-						DevelopmentTeam = TXK3J8QHU9;
-					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -306,9 +303,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-TDSensitive_Example/Pods-TDSensitive_Example-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-TDSensitive_Example/Pods-TDSensitive_Example-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -496,7 +497,7 @@
 			baseConfigurationReference = 7984225BC8D2EFE9F0D22F02 /* Pods-TDSensitive_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = TXK3J8QHU9;
+				DEVELOPMENT_TEAM = SV8R54PUAN;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TDSensitive/TDSensitive-Prefix.pch";
 				INFOPLIST_FILE = "TDSensitive/TDSensitive-Info.plist";
@@ -540,7 +541,7 @@
 			baseConfigurationReference = 10F047563921F1256D500CF8 /* Pods-TDSensitive_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = TXK3J8QHU9;
+				DEVELOPMENT_TEAM = SV8R54PUAN;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TDSensitive/TDSensitive-Prefix.pch";
 				INFOPLIST_FILE = "TDSensitive/TDSensitive-Info.plist";

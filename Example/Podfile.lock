@@ -1,21 +1,21 @@
 PODS:
   - Masonry (1.1.0)
-  - TDSensitive (0.1.0):
-    - ThinkingDataCore (>= 1.0.1)
-  - ThinkingDataCore (1.3.0):
-    - ThinkingDataCore/Main (= 1.3.0)
-  - ThinkingDataCore/iOS (1.3.0)
-  - ThinkingDataCore/Main (1.3.0):
+  - TDSensitive (1.0.0):
+    - ThinkingDataCore (>= 1.3.1)
+  - ThinkingDataCore (1.3.1):
+    - ThinkingDataCore/Main (= 1.3.1)
+  - ThinkingDataCore/iOS (1.3.1)
+  - ThinkingDataCore/Main (1.3.1):
     - ThinkingDataCore/iOS
     - ThinkingDataCore/OSX
     - ThinkingDataCore/tvOS
     - ThinkingDataCore/versionOS
     - ThinkingDataCore/watchOS
-  - ThinkingSDK (3.2.0-beta.1):
-    - ThinkingSDK/Main (= 3.2.0-beta.1)
-  - ThinkingSDK/iOS (3.2.0-beta.1):
-    - ThinkingDataCore (= 1.3.0)
-  - ThinkingSDK/Main (3.2.0-beta.1):
+  - ThinkingSDK (3.3.0-beta.1):
+    - ThinkingSDK/Main (= 3.3.0-beta.1)
+  - ThinkingSDK/iOS (3.3.0-beta.1):
+    - ThinkingDataCore (= 1.3.1)
+  - ThinkingSDK/Main (3.3.0-beta.1):
     - ThinkingSDK/iOS
     - ThinkingSDK/OSX
 
@@ -39,9 +39,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  TDSensitive: 0fffe0b1690e7b98e934307e01898f659f340ea2
-  ThinkingDataCore: 2aa78bbbcff03db1ee04ede3cb22a0ccd8a05f87
-  ThinkingSDK: 8e1ee35d287afacd3ff6be60efb4f07257350559
+  TDSensitive: 09cee23ab3e7dc6db41f5864fccb6b7a453132f1
+  ThinkingDataCore: 07d1e2b18ef92dc74272a03da00b4cba87dadecc
+  ThinkingSDK: b85e58475bc730d12425abeaa254d4cc9317601a
 
 PODFILE CHECKSUM: 3b6041c88ea642f7f33f4871fcd05892a79aee2f
 
